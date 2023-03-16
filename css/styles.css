@@ -424,7 +424,9 @@ body {
 
 }
 .footer-forma-container {
-  /* display: block; */
+  display: inline-block;
+  width: 264px;
+  height: 40px;
 }
 .footer-form {
 
